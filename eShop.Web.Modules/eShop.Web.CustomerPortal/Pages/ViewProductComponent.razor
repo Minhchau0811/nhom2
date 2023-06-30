@@ -1,0 +1,51 @@
+﻿@page "/product/{id:int}"
+
+@inject NavigationManager navigationManager
+
+@inject IViewProductUseCase viewProduct
+@inject IAddProductToCartUseCase addProductTocartUseCase
+
+<h3>Chi tiết sản phẩm</h3>
+
+<div class="card" style="width: 18rem; ">
+    <div class="card-body row">
+        <img src="@product.ImageLink" style="width:270px" />
+        <h5 class="card-title">@product.Name</h5>
+        <h6 class="card-subtitle mb-2 text-muted">@product.Brand</h6>
+        <hr />
+        <p>
+            Price: <label style="color:darkred">@product.Price.ToString("c")</label>
+        </p>
+        <p class="card-text">@product.Description</p>
+    </div>
+   <MudButton Variant="Variant.Outlined" @onclick="AddToCart" StartIcon="@Icons.Material.Filled.Add" IconColor="Color.Primary" Color="Color.Primary" Size="Size.Large">Thêm vào giỏ hàng</MudButton>
+
+</div>
+<MudButton href="products"
+          
+           Variant="Variant.Text"
+           StartIcon="@Icons.Material.Filled.ArrowBack"
+           Color="Color.Primary"
+           Style="text-transform:none">
+   Quay lại
+</MudButton>
+
+@code {
+    private Product product;
+
+    [Parameter]
+    public int Id{ get; set; }
+
+    protected override void OnParametersSet()
+    {
+        base.OnParametersSet();
+        if (Id > 0)
+            product = viewProduct.Execute(Id);
+    }
+
+    private void AddToCart()
+    {
+        addProductTocartUseCase.Execute(product.ProductId);
+        navigationManager.NavigateTo("/");
+    }
+}

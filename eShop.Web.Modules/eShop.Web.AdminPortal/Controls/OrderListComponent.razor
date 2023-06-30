@@ -1,0 +1,26 @@
+﻿
+@if(Orders!=null && Orders.Count() > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Ngày đặt</th>
+                <th>ID Đặt hàng</th>
+                <th>Quốc gia</th>
+                <th>Tỉnh thành</th>
+                <th>Thành phố</th>
+                <th>Tên khách hàng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Orders)
+            {
+                <OrderItemComponent Order="order"></OrderItemComponent>
+            }
+        </tbody>
+    </table>
+}
+@code {
+    [Parameter]
+    public IEnumerable<Order> Orders{ get; set; }
+}

@@ -1,0 +1,68 @@
+﻿@page "/placeorder"
+@using eShop.UseCases.ShoppingCartScreenn.Interfaces;
+
+@inject NavigationManager navigationManager
+@inject IViewShoppingCartUseCase viewShoppingCartUseCase
+@inject IPlaceOrderUseCase PlaceOrderUsecase
+
+<br />
+<div class="container">
+    <div class="justify-content-center">
+        <h3>Thông tin nhận hàng</h3>
+        <div class="card" style="width: 1100px; height: auto; background:#FFE0B2 ">
+            <br />
+
+            <br />
+            <div class="card" style="left:55px; width: 1000px; border:0; background:#FFE0B2">
+                @if (order != null)
+                {
+                    <div class="row">
+                        <div class="col">
+                            <CustomerFormComponent OnCustomerInfoSubmitted="HandleCustomerInfoSubmitted"></CustomerFormComponent>
+                        </div>
+                        <div class="col" style="right:55px border:0">
+                            <OrderSummaryComponent order="order" HidePlaceOrder="true"></OrderSummaryComponent>
+                        </div>
+                    </div>
+                }
+                <br />
+
+            </div>
+        </div>
+    </div>
+</div>
+<br />
+<br />
+<br />
+@code {
+    private Order order;
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            order = await viewShoppingCartUseCase.Excute();
+            StateHasChanged();
+        }
+    }
+
+    private async void HandleCustomerInfoSubmitted(CustomerViewModel customer)
+    {
+        var mapper = new AutoMapper.MapperConfiguration(cfg => cfg.CreateMap<CustomerViewModel, Order>()).CreateMapper();
+        mapper.Map<CustomerViewModel, Order>(customer, order);
+
+        var orderUniqueId = await PlaceOrderUsecase.Excute(order);
+
+        if (string.IsNullOrEmpty(orderUniqueId))
+        {
+            //TODO: display error
+        }
+        else
+        {
+            navigationManager.NavigateTo($"orderconfirm/{orderUniqueId}");
+        }
+    }
+}
+
+
+
+

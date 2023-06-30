@@ -1,0 +1,95 @@
+D:\Năm 3\Kì2\LTUD Web\Project\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.SQL.Dapper.deps.json
+D:\Năm 3\Kì2\LTUD Web\Project\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.SQL.Dapper.dll
+D:\Năm 3\Kì2\LTUD Web\Project\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.SQL.Dapper.pdb
+D:\Năm 3\Kì2\LTUD Web\Project\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\Project\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.UseCases.dll
+D:\Năm 3\Kì2\LTUD Web\Project\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\Năm 3\Kì2\LTUD Web\Project\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\Năm 3\Kì2\LTUD Web\Project\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.csproj.AssemblyReference.cache
+D:\Năm 3\Kì2\LTUD Web\Project\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3\Kì2\LTUD Web\Project\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.AssemblyInfoInputs.cache
+D:\Năm 3\Kì2\LTUD Web\Project\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.AssemblyInfo.cs
+D:\Năm 3\Kì2\LTUD Web\Project\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.csproj.CoreCompileInputs.cache
+D:\Năm 3\Kì2\LTUD Web\Project\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.csproj.CopyComplete
+D:\Năm 3\Kì2\LTUD Web\Project\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.dll
+D:\Năm 3\Kì2\LTUD Web\Project\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\refint\eShop.DataStore.SQL.Dapper.dll
+D:\Năm 3\Kì2\LTUD Web\Project\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.pdb
+D:\Năm 3\Kì2\LTUD Web\Project\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\ref\eShop.DataStore.SQL.Dapper.dll
+D:\Năm 3\Kì2\LTUD Web\Project\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\Năm 3\Kì2\LTUD Web\Project\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.csproj.AssemblyReference.cache
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.AssemblyInfoInputs.cache
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.AssemblyInfo.cs
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.csproj.CoreCompileInputs.cache
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\refint\eShop.DataStore.SQL.Dapper.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.SQL.Dapper.deps.json
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.SQL.Dapper.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.SQL.Dapper.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.UseCases.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.csproj.CopyComplete
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\ref\eShop.DataStore.SQL.Dapper.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.SQL.Dapper.deps.json
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.SQL.Dapper.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.SQL.Dapper.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.UseCases.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.csproj.AssemblyReference.cache
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.AssemblyInfoInputs.cache
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.AssemblyInfo.cs
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.csproj.CoreCompileInputs.cache
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.csproj.CopyComplete
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\refint\eShop.DataStore.SQL.Dapper.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\ref\eShop.DataStore.SQL.Dapper.dll
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.SQL.Dapper.deps.json
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.SQL.Dapper.dll
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.SQL.Dapper.pdb
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.UseCases.dll
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.csproj.AssemblyReference.cache
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.AssemblyInfoInputs.cache
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.AssemblyInfo.cs
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.csproj.CoreCompileInputs.cache
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.csproj.CopyComplete
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.dll
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\refint\eShop.DataStore.SQL.Dapper.dll
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.pdb
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\ref\eShop.DataStore.SQL.Dapper.dll
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.SQL.Dapper.deps.json
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.SQL.Dapper.dll
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.SQL.Dapper.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.UseCases.dll
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.csproj.AssemblyReference.cache
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.AssemblyInfoInputs.cache
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.AssemblyInfo.cs
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.csproj.CoreCompileInputs.cache
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.csproj.CopyComplete
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.dll
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\refint\eShop.DataStore.SQL.Dapper.dll
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\eShop.DataStore.SQL.Dapper.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.SQL.Dapper\obj\Debug\net6.0\ref\eShop.DataStore.SQL.Dapper.dll

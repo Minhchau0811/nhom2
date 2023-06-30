@@ -1,0 +1,184 @@
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.staticwebassets.runtime.json
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.deps.json
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.dll
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.pdb
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.csproj.AssemblyReference.cache
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.AssemblyInfoInputs.cache
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.AssemblyInfo.cs
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.csproj.CoreCompileInputs.cache
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.eShop.Web.Common.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.Web.Common.props
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.Web.Common.props
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.Web.Common.props
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.pack.json
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.build.json
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.development.json
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\bundle\eShop.Web.Common.styles.css
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\projectbundle\eShop.Web.Common.bundle.scp.css
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.dll
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\refint\eShop.Web.Common.dll
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.pdb
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\ref\eShop.Web.Common.dll
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.deps.json
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.dll
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.pdb
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.AssemblyInfo.cs
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.eShop.Web.Common.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.Web.Common.props
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.Web.Common.props
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.Web.Common.props
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\bundle\eShop.Web.Common.styles.css
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\projectbundle\eShop.Web.Common.bundle.scp.css
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.dll
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\refint\eShop.Web.Common.dll
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.pdb
+C:\Users\Admin\Downloads\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\ref\eShop.Web.Common.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.staticwebassets.runtime.json
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.deps.json
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.pdb
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.csproj.AssemblyReference.cache
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.AssemblyInfoInputs.cache
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.AssemblyInfo.cs
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.csproj.CoreCompileInputs.cache
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.eShop.Web.Common.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.Web.Common.props
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.Web.Common.props
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.Web.Common.props
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.build.json
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.development.json
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\bundle\eShop.Web.Common.styles.css
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\projectbundle\eShop.Web.Common.bundle.scp.css
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\refint\eShop.Web.Common.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.pdb
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\ref\eShop.Web.Common.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.staticwebassets.runtime.json
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eShop\eShop.Web.Modules\eShop.web.Common\bin\Debug\net6.0\eShop.Web.Common.deps.json
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.pdb
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.csproj.AssemblyReference.cache
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.AssemblyInfoInputs.cache
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.AssemblyInfo.cs
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.csproj.CoreCompileInputs.cache
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.eShop.Web.Common.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.Web.Common.props
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.Web.Common.props
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.Web.Common.props
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.build.json
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.development.json
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\bundle\eShop.Web.Common.styles.css
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\projectbundle\eShop.Web.Common.bundle.scp.css
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\refint\eShop.Web.Common.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.pdb
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eShop\eShop.Web.Modules\eShop.web.Common\obj\Debug\net6.0\ref\eShop.Web.Common.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.staticwebassets.runtime.json
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.deps.json
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.csproj.AssemblyReference.cache
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.AssemblyInfoInputs.cache
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.AssemblyInfo.cs
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.csproj.CoreCompileInputs.cache
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.eShop.Web.Common.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.Web.Common.props
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.Web.Common.props
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.Web.Common.props
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.build.json
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.development.json
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\bundle\eShop.Web.Common.styles.css
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\projectbundle\eShop.Web.Common.bundle.scp.css
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\refint\eShop.Web.Common.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\ref\eShop.Web.Common.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.staticwebassets.runtime.json
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.deps.json
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.csproj.AssemblyReference.cache
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.AssemblyInfoInputs.cache
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.AssemblyInfo.cs
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.csproj.CoreCompileInputs.cache
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.eShop.Web.Common.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.Web.Common.props
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.Web.Common.props
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.Web.Common.props
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.pack.json
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.build.json
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.development.json
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\bundle\eShop.Web.Common.styles.css
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\projectbundle\eShop.Web.Common.bundle.scp.css
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\refint\eShop.Web.Common.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\ref\eShop.Web.Common.dll
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.staticwebassets.runtime.json
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.deps.json
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.dll
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.pdb
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.csproj.AssemblyReference.cache
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.AssemblyInfoInputs.cache
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.AssemblyInfo.cs
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.csproj.CoreCompileInputs.cache
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.eShop.Web.Common.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.Web.Common.props
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.Web.Common.props
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.Web.Common.props
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.pack.json
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.build.json
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.development.json
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\bundle\eShop.Web.Common.styles.css
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\projectbundle\eShop.Web.Common.bundle.scp.css
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.dll
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\refint\eShop.Web.Common.dll
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.pdb
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\ref\eShop.Web.Common.dll
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.csproj.AssemblyReference.cache
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.AssemblyInfoInputs.cache
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.AssemblyInfo.cs
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.csproj.CoreCompileInputs.cache
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.dll
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\refint\eShop.Web.Common.dll
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\eShop.Web.Common.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.staticwebassets.runtime.json
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.deps.json
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.dll
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\bin\Debug\net6.0\eShop.Web.Common.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.eShop.Web.Common.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.Web.Common.props
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.Web.Common.props
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.Web.Common.props
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.pack.json
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.build.json
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\staticwebassets.development.json
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\bundle\eShop.Web.Common.styles.css
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\scopedcss\projectbundle\eShop.Web.Common.bundle.scp.css
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.Common\obj\Debug\net6.0\ref\eShop.Web.Common.dll

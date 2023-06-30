@@ -1,0 +1,153 @@
+D:\LTUDWEB\BlazorApp_Demo\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.AssemblyReference.cache
+D:\LTUDWEB\BlazorApp_Demo\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTUDWEB\BlazorApp_Demo\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.AssemblyInfoInputs.cache
+D:\LTUDWEB\BlazorApp_Demo\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.AssemblyInfo.cs
+D:\LTUDWEB\BlazorApp_Demo\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.CoreCompileInputs.cache
+D:\LTUDWEB\BlazorApp_Demo\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.deps.json
+D:\LTUDWEB\BlazorApp_Demo\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\LTUDWEB\BlazorApp_Demo\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\LTUDWEB\BlazorApp_Demo\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\LTUDWEB\BlazorApp_Demo\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.UseCases.dll
+D:\LTUDWEB\BlazorApp_Demo\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\LTUDWEB\BlazorApp_Demo\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\LTUDWEB\BlazorApp_Demo\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.CopyComplete
+D:\LTUDWEB\BlazorApp_Demo\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\LTUDWEB\BlazorApp_Demo\eShop.DataStore.HardCoded\obj\Debug\net6.0\refint\eShop.DataStore.HardCoded.dll
+D:\LTUDWEB\BlazorApp_Demo\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\LTUDWEB\BlazorApp_Demo\eShop.DataStore.HardCoded\obj\Debug\net6.0\ref\eShop.DataStore.HardCoded.dll
+D:\LTUDWEB\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.deps.json
+D:\LTUDWEB\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\LTUDWEB\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\LTUDWEB\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\LTUDWEB\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.UseCases.dll
+D:\LTUDWEB\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\LTUDWEB\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\LTUDWEB\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.AssemblyReference.cache
+D:\LTUDWEB\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTUDWEB\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.AssemblyInfoInputs.cache
+D:\LTUDWEB\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.AssemblyInfo.cs
+D:\LTUDWEB\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.CoreCompileInputs.cache
+D:\LTUDWEB\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.CopyComplete
+D:\LTUDWEB\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\LTUDWEB\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\refint\eShop.DataStore.HardCoded.dll
+D:\LTUDWEB\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\LTUDWEB\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\ref\eShop.DataStore.HardCoded.dll
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.deps.json
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.dll
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.CoreBusiness.dll
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.UseCases.dll
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.UseCases.pdb
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.AssemblyInfo.cs
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.CopyComplete
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.dll
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\refint\eShop.DataStore.HardCoded.dll
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\ref\eShop.DataStore.HardCoded.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.deps.json
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.UseCases.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.AssemblyReference.cache
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.AssemblyInfoInputs.cache
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.AssemblyInfo.cs
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.CoreCompileInputs.cache
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.CopyComplete
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\refint\eShop.DataStore.HardCoded.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\ref\eShop.DataStore.HardCoded.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.deps.json
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.UseCases.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.AssemblyReference.cache
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.AssemblyInfoInputs.cache
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.AssemblyInfo.cs
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.CoreCompileInputs.cache
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.CopyComplete
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\refint\eShop.DataStore.HardCoded.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\ref\eShop.DataStore.HardCoded.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.deps.json
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.UseCases.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.AssemblyReference.cache
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.AssemblyInfoInputs.cache
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.AssemblyInfo.cs
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.CoreCompileInputs.cache
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.CopyComplete
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\refint\eShop.DataStore.HardCoded.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\ref\eShop.DataStore.HardCoded.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.deps.json
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.UseCases.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.AssemblyReference.cache
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.AssemblyInfoInputs.cache
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.AssemblyInfo.cs
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.CoreCompileInputs.cache
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.CopyComplete
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\refint\eShop.DataStore.HardCoded.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\ref\eShop.DataStore.HardCoded.dll
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.deps.json
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.UseCases.dll
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.AssemblyReference.cache
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.AssemblyInfoInputs.cache
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.AssemblyInfo.cs
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.CoreCompileInputs.cache
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.CopyComplete
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\refint\eShop.DataStore.HardCoded.dll
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\ref\eShop.DataStore.HardCoded.dll
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.deps.json
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.UseCases.dll
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.AssemblyReference.cache
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.AssemblyInfoInputs.cache
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.AssemblyInfo.cs
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.CoreCompileInputs.cache
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.csproj.CopyComplete
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.dll
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\refint\eShop.DataStore.HardCoded.dll
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\eShop.DataStore.HardCoded.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.DataStore.HardCoded\obj\Debug\net6.0\ref\eShop.DataStore.HardCoded.dll

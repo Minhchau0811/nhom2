@@ -1,0 +1,24 @@
+﻿@page "/admin"
+@attribute [Authorize]
+@inject NavigationManager navigationManager
+
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <h1>ADMIN</h1>
+
+@code {
+    private ProductRequire product;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        product = new ProductRequire();
+    }
+    private void HandleValidSubmit()
+    {
+        navigationManager.NavigateTo($"/Them?Productid={product.ProductId}&Brand={product.Brand}&Name={product.Name}&Price={product.Price}&ImageLink={product.ImageLink}&Description={product.Description}"
+        , true);
+    }
+
+}

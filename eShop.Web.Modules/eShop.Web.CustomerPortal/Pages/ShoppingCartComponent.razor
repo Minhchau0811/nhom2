@@ -1,0 +1,75 @@
+﻿@page "/cart"
+@using eShop.UseCases.ShoppingCartScreenn.Interfaces;
+
+@inject IViewShoppingCartUseCase viewShoppingCartUseCase
+
+
+<br/>
+<div class="container">
+    <div class="justify-content-center">
+           <h3>GIỎ HÀNG</h3>
+        <div class="card" style="width: 1250px; height: auto; background:#FFE0B2 ">
+            <br />
+
+            <br />
+            <div class="card" style="left:55px; width: 1000px; border:0; background:#FFE0B2">
+                @if (order != null && order.LineItems != null && order.LineItems.Count > 0)
+                {
+                    <div class="row">
+                        <div class="col-6">
+                            <ul>
+                                @for (int i = 0; i < order.LineItems.Count; i++)
+                                {
+                                    <LineItemComponent 
+                                        LineItem="order.LineItems[i]"
+                                        OnDeleteProduct="HandleDeleteProduct"
+                                        OnUpdateQuantity="HandleUpdateQuantity"></LineItemComponent>
+
+                                    @if (i < order.LineItems.Count - 1)
+                                    {
+                                        <li style="list-style:none">
+                                            <hr />
+                                        </li>
+                                    }
+                                }
+                            </ul>
+                        </div>
+                        <div class="col" style="right:0">
+                            <OrderSummaryComponent order="order"></OrderSummaryComponent>
+                        </div>
+                    </div>
+                    <br />
+                    <br/>
+                    
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+       
+     
+
+
+
+@code {
+    private Order order;
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            order = await viewShoppingCartUseCase.Excute();
+            StateHasChanged();
+        }
+    }
+
+    private void HandleDeleteProduct(Order order)
+    {
+        this.order = order;
+    }
+    private void HandleUpdateQuantity(Order order)
+    {
+        this.order = order;
+    }
+}

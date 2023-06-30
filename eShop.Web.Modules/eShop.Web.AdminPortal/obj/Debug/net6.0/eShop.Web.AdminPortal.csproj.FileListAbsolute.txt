@@ -1,0 +1,178 @@
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.staticwebassets.runtime.json
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.deps.json
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.dll
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.pdb
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.csproj.AssemblyReference.cache
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.AssemblyInfoInputs.cache
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.AssemblyInfo.cs
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.csproj.CoreCompileInputs.cache
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.eShop.Web.AdminPortal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.Web.AdminPortal.props
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.Web.AdminPortal.props
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.Web.AdminPortal.props
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.pack.json
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.build.json
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.development.json
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\bundle\eShop.Web.AdminPortal.styles.css
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\projectbundle\eShop.Web.AdminPortal.bundle.scp.css
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.dll
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\refint\eShop.Web.AdminPortal.dll
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.pdb
+D:\LTUDWEB\projects\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\ref\eShop.Web.AdminPortal.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.staticwebassets.runtime.json
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.deps.json
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.pdb
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.csproj.AssemblyReference.cache
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.AssemblyInfoInputs.cache
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.AssemblyInfo.cs
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.csproj.CoreCompileInputs.cache
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.eShop.Web.AdminPortal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.Web.AdminPortal.props
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.Web.AdminPortal.props
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.Web.AdminPortal.props
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.build.json
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.development.json
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\bundle\eShop.Web.AdminPortal.styles.css
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\projectbundle\eShop.Web.AdminPortal.bundle.scp.css
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\refint\eShop.Web.AdminPortal.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.pdb
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\ref\eShop.Web.AdminPortal.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.Common.staticwebassets.runtime.json
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.UseCases.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.Common.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.Common.pdb
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eShop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.csproj.CopyComplete
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.Common.staticwebassets.runtime.json
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.staticwebassets.runtime.json
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.deps.json
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.UseCases.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.Common.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.Common.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.csproj.AssemblyReference.cache
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.AssemblyInfoInputs.cache
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.AssemblyInfo.cs
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.csproj.CoreCompileInputs.cache
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.eShop.Web.AdminPortal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.Web.AdminPortal.props
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.Web.AdminPortal.props
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.Web.AdminPortal.props
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.build.json
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.development.json
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\bundle\eShop.Web.AdminPortal.styles.css
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\projectbundle\eShop.Web.AdminPortal.bundle.scp.css
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.csproj.CopyComplete
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\refint\eShop.Web.AdminPortal.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\ref\eShop.Web.AdminPortal.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.Common.staticwebassets.runtime.json
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.staticwebassets.runtime.json
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.deps.json
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.UseCases.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.Common.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.Common.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.csproj.AssemblyReference.cache
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.AssemblyInfoInputs.cache
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.AssemblyInfo.cs
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.csproj.CoreCompileInputs.cache
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.eShop.Web.AdminPortal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.Web.AdminPortal.props
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.Web.AdminPortal.props
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.Web.AdminPortal.props
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.pack.json
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.build.json
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.development.json
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\bundle\eShop.Web.AdminPortal.styles.css
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\projectbundle\eShop.Web.AdminPortal.bundle.scp.css
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.csproj.CopyComplete
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\refint\eShop.Web.AdminPortal.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\ref\eShop.Web.AdminPortal.dll
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.Common.staticwebassets.runtime.json
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.staticwebassets.runtime.json
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.deps.json
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.dll
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.pdb
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.UseCases.dll
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.Common.dll
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.Common.pdb
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.csproj.AssemblyReference.cache
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.AssemblyInfoInputs.cache
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.AssemblyInfo.cs
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.csproj.CoreCompileInputs.cache
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.eShop.Web.AdminPortal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.Web.AdminPortal.props
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.Web.AdminPortal.props
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.Web.AdminPortal.props
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.pack.json
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.build.json
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.development.json
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\bundle\eShop.Web.AdminPortal.styles.css
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\projectbundle\eShop.Web.AdminPortal.bundle.scp.css
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.csproj.CopyComplete
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.dll
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\refint\eShop.Web.AdminPortal.dll
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.pdb
+D:\BAITHI\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\ref\eShop.Web.AdminPortal.dll
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.csproj.AssemblyReference.cache
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.AssemblyInfoInputs.cache
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.AssemblyInfo.cs
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.csproj.CoreCompileInputs.cache
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.dll
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\refint\eShop.Web.AdminPortal.dll
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.Common.staticwebassets.runtime.json
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.staticwebassets.runtime.json
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.deps.json
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.dll
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.AdminPortal.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.UseCases.dll
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.Common.dll
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\bin\Debug\net6.0\eShop.Web.Common.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.eShop.Web.AdminPortal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.Web.AdminPortal.props
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.Web.AdminPortal.props
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.Web.AdminPortal.props
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.pack.json
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.build.json
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\staticwebassets.development.json
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\bundle\eShop.Web.AdminPortal.styles.css
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\scopedcss\projectbundle\eShop.Web.AdminPortal.bundle.scp.css
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\eShop.Web.AdminPortal.csproj.CopyComplete
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.Web.Modules\eShop.Web.AdminPortal\obj\Debug\net6.0\ref\eShop.Web.AdminPortal.dll

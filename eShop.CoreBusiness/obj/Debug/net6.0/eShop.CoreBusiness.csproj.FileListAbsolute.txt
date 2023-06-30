@@ -1,0 +1,108 @@
+D:\LTUDWEB\BlazorApp_Demo\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.deps.json
+D:\LTUDWEB\BlazorApp_Demo\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\LTUDWEB\BlazorApp_Demo\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\LTUDWEB\BlazorApp_Demo\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.csproj.AssemblyReference.cache
+D:\LTUDWEB\BlazorApp_Demo\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTUDWEB\BlazorApp_Demo\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.AssemblyInfoInputs.cache
+D:\LTUDWEB\BlazorApp_Demo\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.AssemblyInfo.cs
+D:\LTUDWEB\BlazorApp_Demo\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.csproj.CoreCompileInputs.cache
+D:\LTUDWEB\BlazorApp_Demo\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.dll
+D:\LTUDWEB\BlazorApp_Demo\eShop.CoreBusiness\obj\Debug\net6.0\refint\eShop.CoreBusiness.dll
+D:\LTUDWEB\BlazorApp_Demo\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\LTUDWEB\BlazorApp_Demo\eShop.CoreBusiness\obj\Debug\net6.0\ref\eShop.CoreBusiness.dll
+D:\LTUDWEB\projects\eShop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.deps.json
+D:\LTUDWEB\projects\eShop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\LTUDWEB\projects\eShop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\LTUDWEB\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.csproj.AssemblyReference.cache
+D:\LTUDWEB\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTUDWEB\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.AssemblyInfoInputs.cache
+D:\LTUDWEB\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.AssemblyInfo.cs
+D:\LTUDWEB\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.csproj.CoreCompileInputs.cache
+D:\LTUDWEB\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.dll
+D:\LTUDWEB\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\refint\eShop.CoreBusiness.dll
+D:\LTUDWEB\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\LTUDWEB\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\ref\eShop.CoreBusiness.dll
+C:\Users\Admin\Downloads\projects\eShop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.deps.json
+C:\Users\Admin\Downloads\projects\eShop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.dll
+C:\Users\Admin\Downloads\projects\eShop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+C:\Users\Admin\Downloads\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.AssemblyInfo.cs
+C:\Users\Admin\Downloads\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.dll
+C:\Users\Admin\Downloads\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\refint\eShop.CoreBusiness.dll
+C:\Users\Admin\Downloads\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.pdb
+C:\Users\Admin\Downloads\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\ref\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.deps.json
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.csproj.AssemblyReference.cache
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.AssemblyInfoInputs.cache
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.AssemblyInfo.cs
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.csproj.CoreCompileInputs.cache
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\refint\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\eShop.CoreBusiness\obj\Debug\net6.0\ref\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.deps.json
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.csproj.AssemblyReference.cache
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.AssemblyInfoInputs.cache
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.AssemblyInfo.cs
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.csproj.CoreCompileInputs.cache
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\refint\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\ref\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.deps.json
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.csproj.AssemblyReference.cache
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.AssemblyInfoInputs.cache
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.AssemblyInfo.cs
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.csproj.CoreCompileInputs.cache
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\refint\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\ref\eShop.CoreBusiness.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.deps.json
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.csproj.AssemblyReference.cache
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.AssemblyInfoInputs.cache
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.AssemblyInfo.cs
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.csproj.CoreCompileInputs.cache
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\refint\eShop.CoreBusiness.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\ref\eShop.CoreBusiness.dll
+D:\BAITHI\Project1\Project\eshop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.deps.json
+D:\BAITHI\Project1\Project\eshop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\BAITHI\Project1\Project\eshop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\BAITHI\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.csproj.AssemblyReference.cache
+D:\BAITHI\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITHI\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.AssemblyInfoInputs.cache
+D:\BAITHI\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.AssemblyInfo.cs
+D:\BAITHI\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.csproj.CoreCompileInputs.cache
+D:\BAITHI\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.dll
+D:\BAITHI\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\refint\eShop.CoreBusiness.dll
+D:\BAITHI\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\BAITHI\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\ref\eShop.CoreBusiness.dll
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.csproj.AssemblyReference.cache
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.AssemblyInfoInputs.cache
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.AssemblyInfo.cs
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.csproj.CoreCompileInputs.cache
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.dll
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\refint\eShop.CoreBusiness.dll
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.deps.json
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.CoreBusiness\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\eShop.CoreBusiness\obj\Debug\net6.0\ref\eShop.CoreBusiness.dll

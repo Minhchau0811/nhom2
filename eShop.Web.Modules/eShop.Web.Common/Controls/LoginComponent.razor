@@ -1,0 +1,51 @@
+﻿@inject NavigationManager navigationManager
+
+<br/>
+<div class="container">
+    <div class="justify-content-center">
+           <h3>ĐĂNG NHẬP</h3>
+        <div class="card" style="width: 1150px; height: auto;left:70px; background:#FFE0B2 ">
+            <br />
+
+            <br />
+            <div class="card" style="left:55px; width: 1000px; border:0; background:#FFE0B2">
+            @if(loginViewModel != null){
+                <EditForm Model="loginViewModel" OnValidSubmit="HandleValidSubmit" class="form-line">
+                    <DataAnnotationsValidator></DataAnnotationsValidator>
+                    <ValidationSummary></ValidationSummary>
+
+                    <div class="form-group">
+                        <label for="name">Tài khoản</label>
+                        <InputText id="name" @bind-Value="loginViewModel.UserName" class="form-control"></InputText>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="password">Mật khẩu</label>
+                        <InputText id="password" @bind-Value="loginViewModel.Password" type="password" class="form-control"></InputText>
+                    </div>
+                    <br>
+                    <button type="submit" class="btn btn-primary">Đăng nhập</button>
+                </EditForm>
+            }
+            <br />
+            </div>
+        </div>
+        <br />
+
+
+
+    </div>
+    <br />
+</div>
+@code {
+    private LoginViewModel loginViewModel;
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        loginViewModel = new LoginViewModel();
+    }
+    private void HandleValidSubmit()
+    {
+        navigationManager.NavigateTo($"/authenticate?user={loginViewModel.UserName}&pwd={loginViewModel.Password}", true);
+    }
+}

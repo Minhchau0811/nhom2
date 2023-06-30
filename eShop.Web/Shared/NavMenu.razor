@@ -1,0 +1,19 @@
+﻿<MudNavMenu>
+
+    <MudNavGroup Title="Quản lý đơn hàng" Expanded="false" Icon="@Icons.Material.Filled.Reorder">
+        <MudNavLink Href="outstandingorders" Match="NavLinkMatch.All" Icon="@Icons.Material.Filled.ShoppingCartCheckout">Đơn hàng chờ xử lý</MudNavLink>
+        <MudNavLink Href="processedorders" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.ShoppingBag">Đơn hàng đã xử lý</MudNavLink>
+    </MudNavGroup>
+
+    <MudNavGroup Title="Quản lý sản phẩm" Expanded="false" Icon="@Icons.Material.Filled.ViewList">
+        <MudNavLink Href="/themsp" Icon="@Icons.Material.Filled.AddCard">Thêm sản phẩm</MudNavLink>
+        <MudNavLink Href="/SuaSanPham" Icon="@Icons.Material.Filled.Update">Sửa sản phẩm</MudNavLink>
+        <MudNavLink Href="/XoaSanPham" Icon="@Icons.Material.Filled.Delete">Xóa sản phẩm</MudNavLink>
+    </MudNavGroup>
+    <MudNavLink Href="/logout" Match="NavLinkMatch.All" Icon="@Icons.Material.Filled.WrapText">Đăng xuất</MudNavLink>
+</MudNavMenu>
+
+@code {
+
+}
+

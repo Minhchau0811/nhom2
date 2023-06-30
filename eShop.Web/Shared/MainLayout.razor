@@ -1,0 +1,64 @@
+﻿@inherits LayoutComponentBase
+<MudThemeProvider />
+<MudDialogProvider />
+<MudSnackbarProvider />
+<PageTitle>eShop.Web</PageTitle>
+
+<MudLayout>
+    <AuthorizeView>
+        <NotAuthorized>
+            @if (_drawerOpen)
+            {
+                <div class="top-row" style="color:#000; background-color: #FFE082">
+                    <TopNavBar></TopNavBar>
+                </div>
+            }
+        </NotAuthorized>
+    </AuthorizeView>
+    <div style="background-color: #FFF8E1">
+        <AuthorizeView>
+            <Authorized>
+                @if (_drawerOpen)
+                {
+                    <MudDrawer @bind-Open="_drawerOpen" Elevation="1">
+                        <MudDrawerHeader>
+                            <MudText Typo="Typo.h6">Admin</MudText>
+                        </MudDrawerHeader>
+                        <NavMenu></NavMenu>
+                    </MudDrawer>
+                    <MudMainContent>
+
+                        @Body
+
+                        <CHANTRANG></CHANTRANG>
+
+                    </MudMainContent>
+                }
+                else
+                {
+                    <div>
+                        @Body
+                        <br />
+                        <br />
+                        <br /> <CHANTRANG></CHANTRANG>
+                    </div>
+                }
+            </Authorized>
+            <NotAuthorized>
+                <div>
+                    @Body
+                    <CHANTRANG></CHANTRANG>
+                </div>
+            </NotAuthorized>
+        </AuthorizeView>
+    </div>
+</MudLayout>
+
+@code {
+    bool _drawerOpen = true;
+
+    void DrawerToggle()
+    {
+        _drawerOpen = !_drawerOpen;
+    }
+}

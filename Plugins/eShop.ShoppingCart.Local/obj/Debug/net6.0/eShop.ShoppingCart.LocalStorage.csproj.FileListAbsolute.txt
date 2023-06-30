@@ -1,0 +1,208 @@
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.staticwebassets.runtime.json
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.deps.json
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.dll
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.pdb
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.UseCases.dll
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.AssemblyReference.cache
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.AssemblyInfoInputs.cache
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.AssemblyInfo.cs
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.CoreCompileInputs.cache
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.eShop.ShoppingCart.LocalStorage.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.ShoppingCart.LocalStorage.props
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.ShoppingCart.LocalStorage.props
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.ShoppingCart.LocalStorage.props
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.pack.json
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.build.json
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.development.json
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\scopedcss\bundle\eShop.ShoppingCart.LocalStorage.styles.css
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.CopyComplete
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.dll
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\refint\eShop.ShoppingCart.LocalStorage.dll
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.pdb
+D:\LTUDWEB\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\ref\eShop.ShoppingCart.LocalStorage.dll
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.deps.json
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.dll
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.pdb
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.CoreBusiness.dll
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.UseCases.dll
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.UseCases.pdb
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.AssemblyInfo.cs
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.eShop.ShoppingCart.LocalStorage.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.ShoppingCart.LocalStorage.props
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.ShoppingCart.LocalStorage.props
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.ShoppingCart.LocalStorage.props
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\scopedcss\bundle\eShop.ShoppingCart.LocalStorage.styles.css
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.CopyComplete
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.dll
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\refint\eShop.ShoppingCart.LocalStorage.dll
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.pdb
+C:\Users\Admin\Downloads\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\ref\eShop.ShoppingCart.LocalStorage.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.staticwebassets.runtime.json
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.deps.json
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.pdb
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.UseCases.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.AssemblyReference.cache
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.AssemblyInfoInputs.cache
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.AssemblyInfo.cs
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.CoreCompileInputs.cache
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.eShop.ShoppingCart.LocalStorage.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.ShoppingCart.LocalStorage.props
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.ShoppingCart.LocalStorage.props
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.ShoppingCart.LocalStorage.props
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.build.json
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.development.json
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\scopedcss\bundle\eShop.ShoppingCart.LocalStorage.styles.css
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.CopyComplete
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\refint\eShop.ShoppingCart.LocalStorage.dll
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.pdb
+D:\Năm 3\Kì2\LTUD Web\projects\eShop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\ref\eShop.ShoppingCart.LocalStorage.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.staticwebassets.runtime.json
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.deps.json
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.pdb
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.UseCases.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.AssemblyReference.cache
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.AssemblyInfoInputs.cache
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.AssemblyInfo.cs
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.CoreCompileInputs.cache
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.eShop.ShoppingCart.LocalStorage.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.ShoppingCart.LocalStorage.props
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.ShoppingCart.LocalStorage.props
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.ShoppingCart.LocalStorage.props
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.build.json
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.development.json
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\scopedcss\bundle\eShop.ShoppingCart.LocalStorage.styles.css
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.CopyComplete
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\refint\eShop.ShoppingCart.LocalStorage.dll
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.pdb
+D:\Năm 3\Kì2\LTUD Web\BaiTap\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\ref\eShop.ShoppingCart.LocalStorage.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.staticwebassets.runtime.json
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.deps.json
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.UseCases.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.AssemblyReference.cache
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.AssemblyInfoInputs.cache
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.AssemblyInfo.cs
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.CoreCompileInputs.cache
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.eShop.ShoppingCart.LocalStorage.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.ShoppingCart.LocalStorage.props
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.ShoppingCart.LocalStorage.props
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.ShoppingCart.LocalStorage.props
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.build.json
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.development.json
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\scopedcss\bundle\eShop.ShoppingCart.LocalStorage.styles.css
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.CopyComplete
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\refint\eShop.ShoppingCart.LocalStorage.dll
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.pdb
+D:\Năm 3\Kì2\LTUD Web\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\ref\eShop.ShoppingCart.LocalStorage.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.staticwebassets.runtime.json
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.deps.json
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.UseCases.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.AssemblyReference.cache
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.AssemblyInfoInputs.cache
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.AssemblyInfo.cs
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.CoreCompileInputs.cache
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.eShop.ShoppingCart.LocalStorage.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.ShoppingCart.LocalStorage.props
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.ShoppingCart.LocalStorage.props
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.ShoppingCart.LocalStorage.props
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.pack.json
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.build.json
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.development.json
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\scopedcss\bundle\eShop.ShoppingCart.LocalStorage.styles.css
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.CopyComplete
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\refint\eShop.ShoppingCart.LocalStorage.dll
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.pdb
+D:\HOCKI_2 NAM 3\BAINHOM2LAN1\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\ref\eShop.ShoppingCart.LocalStorage.dll
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.staticwebassets.runtime.json
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.deps.json
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.dll
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.pdb
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.UseCases.dll
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.AssemblyReference.cache
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.AssemblyInfoInputs.cache
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.AssemblyInfo.cs
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.CoreCompileInputs.cache
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.eShop.ShoppingCart.LocalStorage.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.ShoppingCart.LocalStorage.props
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.ShoppingCart.LocalStorage.props
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.ShoppingCart.LocalStorage.props
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.pack.json
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.build.json
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.development.json
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\scopedcss\bundle\eShop.ShoppingCart.LocalStorage.styles.css
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.CopyComplete
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.dll
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\refint\eShop.ShoppingCart.LocalStorage.dll
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.pdb
+D:\BAITHI\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\ref\eShop.ShoppingCart.LocalStorage.dll
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.AssemblyReference.cache
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.AssemblyInfoInputs.cache
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.AssemblyInfo.cs
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.CoreCompileInputs.cache
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.dll
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\refint\eShop.ShoppingCart.LocalStorage.dll
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.staticwebassets.runtime.json
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.deps.json
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.dll
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.ShoppingCart.LocalStorage.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.CoreBusiness.dll
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.UseCases.dll
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.UseCases.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\bin\Debug\net6.0\eShop.CoreBusiness.pdb
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.eShop.ShoppingCart.LocalStorage.Microsoft.AspNetCore.StaticWebAssets.props
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.build.eShop.ShoppingCart.LocalStorage.props
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eShop.ShoppingCart.LocalStorage.props
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eShop.ShoppingCart.LocalStorage.props
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.pack.json
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.build.json
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\staticwebassets.development.json
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\scopedcss\bundle\eShop.ShoppingCart.LocalStorage.styles.css
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\eShop.ShoppingCart.LocalStorage.csproj.CopyComplete
+D:\BAITHI\Project2\Project1\Project\eshop\Plugins\eShop.ShoppingCart.Local\obj\Debug\net6.0\ref\eShop.ShoppingCart.LocalStorage.dll

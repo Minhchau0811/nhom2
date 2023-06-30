@@ -1,0 +1,75 @@
+﻿@page "/vn"
+
+
+@inject ISearchProductUseCase searchProduct
+<MudCarousel Class="mud-width-full" Style="height:400px;width:100%" ShowArrows="@arrows" ShowBullets="@bullets" EnableSwipeGesture="@enableSwipeGesture" AutoCycle="@autocycle" TData="object" Size="@Size.Large">
+    <MudCarouselItem Transition="transition">
+        <MudImage Fluid="true" Src="https://scontent.fdad3-1.fna.fbcdn.net/v/t1.15752-9/353830726_1187379325266343_4513161093549740145_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=DZBRweMzB9MAX8qCRpD&_nc_ht=scontent.fdad3-1.fna&oh=03_AdSsvKFI4AkHJDwA6G9dKlitfJY9Uho8dd7PQbyLfUCGoA&oe=64C3E71B" Size="@Size.Large" Style="height:400px;width:100%" />
+    </MudCarouselItem>
+    <MudCarouselItem Transition="transition">
+        <MudImage Fluid="true" Src="https://theme.hstatic.net/1000363117/1000911694/14/ms_banner_img3.jpg?v=380" Size="@Size.Large" Style="height:400px;width:100%" />
+    </MudCarouselItem>
+
+    <MudCarouselItem Transition="transition">
+        <MudImage Fluid="true" Src="https://theme.hstatic.net/1000363117/1000911694/14/ms_banner_img4.jpg?v=380" Size="@Size.Large" Style="height:400px;width:100%" />
+    </MudCarouselItem>
+
+    <MudCarouselItem Transition="transition">
+        <MudImage Fluid="true" Src="https://theme.hstatic.net/1000363117/1000911694/14/ms_banner_img5.jpg?v=380" Size="@Size.Large" Style="height:400px;width:100%" />
+    </MudCarouselItem>
+
+    <MudCarouselItem Transition="transition">
+        <MudImage Fluid="true" Src="https://theme.hstatic.net/1000363117/1000911694/14/ms_banner_img2.jpg?v=380" Size="@Size.Large" Style="height:400px;width:100%" />
+    </MudCarouselItem>
+</MudCarousel>
+
+
+<br />
+<br />
+<MudText Align="Align.Center" Typo="Typo.h3">   
+    <b>SÁCH VĂN HỌC VIỆT NAM</b>
+    </MudText>
+<br />
+<br />
+
+
+@if (products != null && products.Count() > 0)
+{
+    <div class="row">
+        @foreach (var product in products)
+        {
+            <ProductCardComponent product="product"></ProductCardComponent>
+        }
+    </div>
+}
+else
+{
+    <text>No Products Found.</text>
+}
+
+@code {
+    private int currentPage = 1;
+
+    private void ChangePage(int page)
+    {
+        currentPage = page;
+    }
+    private bool arrows = true;
+    private bool bullets = true;
+    private bool enableSwipeGesture = true;
+    private bool autocycle = true;
+    private Transition transition = Transition.Custom;
+    private IEnumerable<Product> products;
+
+
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+
+        products = searchProduct.Execute("VN");
+    }
+
+   
+}
+

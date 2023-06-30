@@ -1,0 +1,73 @@
+﻿@page "/"
+@page "/products"
+@page "/Trangchu"
+
+@inject ISearchProductUseCase searchProduct
+<MudCarousel Class="mud-width-full" Style="height:400px;width:100%" ShowArrows="@arrows" ShowBullets="@bullets" EnableSwipeGesture="@enableSwipeGesture" AutoCycle="@autocycle" TData="object" Size="@Size.Large">
+    <MudCarouselItem Transition="transition">
+        <MudImage Fluid="true" Src="https://bookbuy.vn/Res/Images/Album/f6e4b9eb-066d-4e9e-b404-e2e6f820b447.png?w=880&scale=both&h=320&mode=crop&fbclid=IwAR38CGcLndvqOwvDZilH9Z92_4SLcvfVdk2YD0jD6ApLmWQJ4RThcLtvCsM" Size="@Size.Large" Style="height:400px;width:100%" />
+    </MudCarouselItem>
+    <MudCarouselItem Transition="transition">
+        <MudImage Fluid="true" Src="https://theme.hstatic.net/1000363117/1000911694/14/ms_banner_img3.jpg?v=380" Size="@Size.Large" Style="height:400px;width:100%" />
+    </MudCarouselItem>
+
+    <MudCarouselItem Transition="transition">
+        <MudImage Fluid="true" Src="https://theme.hstatic.net/1000363117/1000911694/14/ms_banner_img4.jpg?v=380" Size="@Size.Large" Style="height:400px;width:100%" />
+    </MudCarouselItem>
+
+    <MudCarouselItem Transition="transition">
+        <MudImage Fluid="true" Src="https://theme.hstatic.net/1000363117/1000911694/14/ms_banner_img5.jpg?v=380" Size="@Size.Large" Style="height:400px;width:100%" />
+    </MudCarouselItem>
+
+    <MudCarouselItem Transition="transition">
+        <MudImage Fluid="true" Src="https://theme.hstatic.net/1000363117/1000911694/14/ms_banner_img2.jpg?v=380" Size="@Size.Large" Style="height:400px;width:100%" />
+    </MudCarouselItem>
+</MudCarousel>
+<br/>
+
+<SearchBarComponent OnSearch="HandleSearch"></SearchBarComponent>
+<br/>
+<br/>
+
+@if(products != null && products.Count() > 0)
+{
+    <div class="row">
+        @foreach(var product in products)
+        {
+            <ProductCardComponent product="product"></ProductCardComponent>
+        }
+    </div>
+}
+else
+{
+    <text>No Products Found.</text>
+}
+
+@code {
+    private int currentPage = 1;
+
+    private void ChangePage(int page)
+    {
+        currentPage = page;
+    }
+    private bool arrows = true;
+    private bool bullets = true;
+    private bool enableSwipeGesture = true;
+    private bool autocycle = true;
+    private Transition transition = Transition.Custom;
+    private IEnumerable<Product> products;
+
+
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+
+        products = searchProduct.Execute(null);
+    }
+
+    private void HandleSearch(string filter)
+    {
+        products = searchProduct.Execute(filter);
+    }
+}
